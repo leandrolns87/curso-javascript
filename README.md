@@ -1,2 +1,2 @@
 # curso-javascript
- Repositório do curso JS do curso em vídeo
+ Repositório do curso em JavaScript do curso em vídeo
