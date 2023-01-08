@@ -22,3 +22,12 @@ footer {
     text-align: center;
     font-style: italic;
 }
+
+#res {
+    gap: 1.5rem; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}

@@ -45,6 +45,7 @@ function verificar() {
         }
         res.style.textAlign = 'center'
         res.innerHTML = `Detectamos ${genero} com ${idade} anos.`
+        res.classList.add('flexCenter')
         res.appendChild(img)
     }
 }
