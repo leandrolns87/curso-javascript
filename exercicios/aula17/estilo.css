@@ -15,6 +15,7 @@ section {
     width: 500px;
     margin: auto;           /* centralizar na tela */
     box-shadow: 7px 7px 10px rgba(0, 0, 0, 0.315);  /* sombra, 3px deslocamento lateral, vertical e espalhamento */
+    text-align: center;
 }
 
 select#flista {
@@ -25,4 +26,12 @@ footer {
     color: white;
     text-align: center;
     font-style: italic;
+}
+
+#flista, #fbut {
+    margin-top: 30px;
+}
+
+p {
+    color: black;
 }
